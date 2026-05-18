@@ -28,7 +28,7 @@ The repository includes publication-quality systems biology figures generated fo
 ### Gut-Centered Systems Pharmacology Framework
 
 <p align="center">
-  <img src="figure/image14.png" width="1000">
+  <img src="image14.png" width="1000">
 </p>
 
 **Figure:** Curcumin-mediated indirect pharmacology in colorectal cancer, emphasizing local intestinal exposure, microbiota remodeling, mediator-driven signaling, immune regulation, inflammatory modulation, and tumor microenvironment remodeling.
